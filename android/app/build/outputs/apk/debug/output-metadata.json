@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.samsung.android.sdk.accessory.example.helloaccessory.kcpr",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 4,
+      "versionName": "2.0.2",
+      "outputFile": "app-debug.apk"
+    }
+  ]
+}

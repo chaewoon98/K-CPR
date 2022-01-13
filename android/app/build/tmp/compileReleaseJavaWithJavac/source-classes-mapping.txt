@@ -1,0 +1,47 @@
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/CprProcess.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.CprProcess
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/MainActivity.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.MainActivity
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.MainActivity$1
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/PositionDataMemory.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.PositionDataMemory
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/viewpager/ViewPagerAdapter.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.ViewPagerAdapter
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/SensorData.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.SensorData
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/SetTimeActivity.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.SetTimeActivity
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.SetTimeActivity$1
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.SetTimeActivity$2
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/RecordActivity.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.RecordActivity
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/viewpager/EducationActivity.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.EducationActivity
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.EducationActivity$1
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.EducationActivity$2
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.EducationActivity$3
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.EducationActivity$4
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/ConsumerService.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerService
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerService$1
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerService$2
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerService$3
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerService$LocalBinder
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerService$ServiceConnection
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/viewpager/ViewHolder.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.ViewHolder
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/BuildConfig.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.BuildConfig
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/FCMService.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.FCMService
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/viewpager/ViewPagerData.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.viewpager.ViewPagerData
+com/samsung/android/sdk/accessory/example/helloaccessory/kcpr/ConsumerActivity.java
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$1
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$2
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$3
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$Message
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$MessageAdapter
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$MessageAdapter$1
+ com.samsung.android.sdk.accessory.example.helloaccessory.kcpr.ConsumerActivity$MessageAdapter$2

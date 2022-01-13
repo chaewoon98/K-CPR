@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "805953621771",
+    "project_id": "k-cpr-32b5c",
+    "storage_bucket": "k-cpr-32b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805953621771:android:62221f35f3b8712a4bdc0e",
+        "android_client_info": {
+          "package_name": "com.samsung.android.sdk.accessory.example.helloaccessory.consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805953621771-rirqfnqhsq0q8bj9juo71spnrbf1ocos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IYIgNiqjM1wTR_JCMcn_HHi3oDf2dxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805953621771-rirqfnqhsq0q8bj9juo71spnrbf1ocos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805953621771:android:4119e245132015e34bdc0e",
+        "android_client_info": {
+          "package_name": "com.samsung.android.sdk.accessory.example.helloaccessory.kcpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805953621771-rirqfnqhsq0q8bj9juo71spnrbf1ocos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IYIgNiqjM1wTR_JCMcn_HHi3oDf2dxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805953621771-rirqfnqhsq0q8bj9juo71spnrbf1ocos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width,user-scalable=no">
+	<title>Basic</title>
+	<link rel="stylesheet" href="lib/tau/wearable/theme/default/tau.min.css">
+	<link rel="stylesheet" media="all and (-tizen-geometric-shape: circle)" href="lib/tau/wearable/theme/default/tau.circle.min.css">
+	<!-- load theme file for your application -->
+	<link rel="stylesheet" href="css/style.css">
+		
+</head>
+
+<body>
+		<div class="ui-page ui-page-active" id="pageIndicatorPage" style="margin: 0px auto">		
+			<div id="pageIndicator" class="ui-page-indicator"></div>
+			 <header class="ui-header" style="height: 0px;">
+   			   <h2 class="ui-title">Bottom Button</h2>
+   			</header>   			
+			<div id="hsectionchanger" class="ui-content" style="height: 500px;">
+				<div>
+					 <section class="ui-section-active" >					 					
+					 	<p style="margin-top: 40%"><a href="checkConsciousness.html" target="_self" style="font-family: monospace; font-size: 55px; margin: 0px; padding: 0px; ">START</a> </p>															
+	         		</section>
+	         		<section style="text-align:center; height: 500px;">
+	         		<p style="margin-top: 10%; color:#46FFFF;">education</p>
+	            	<p style="margin-top: 10%"><a href="educationMode.html" target="_self" style="font-family: monospace; font-size: 55px; margin: 0px; padding: 0px; ">START</a> </p>	            		
+						<hr style="height=0.2px; width: 110px;"></hr>
+						<p><a href="checkBreath.html" style="font-family: monospace; font-size: 40px; ">Record</a> </p>
+	         		</section>
+	         		<section style="text-align:center">
+         				   <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+         				   <a href="http://www.freepik.com">Designed by macrovector / Freepik</a>
+         				   <p> CPR ICON - Designed by Urbanbrush.net</p>
+         				            		
+	         		</section>                           
+				</div>
+			</div>
+			<footer class="ui-footer ui-bottom-button" style="height: 0px;">      			
+   			</footer>
+		</div>
+	
+	<script src="lib/tau/wearable/js/tau.min.js"></script>
+	<script src="js/app.js"></script>
+	<script src="js/indicator.js"></script>
+	<script src="js/lowBatteryCheck.js"></script>
+	<script src="js/circle-helper.js"></script>
+	<script src="js/uiChange3.js"></script>
+</body></html>

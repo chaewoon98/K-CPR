@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">K-CPR</string>
+    <string name="hello_world">Hello Accessory!</string>
+    <string name="ConnectionEstablishedMsg">Service Connection with HelloAccessory(P) has been established.</string>
+    <string name="ConnectionTerminateddMsg">Service Connection with HelloAccessory(P) has been terminated.</string>
+    <string name="ConnectionAlreadyExist">Service Connection has already been existed!!!</string>
+    <string name="ConnectionAlreadyDisconnected">Service Connection has already been disconnected!!!</string>
+    <string name="ConnectionFailure">Service Connection Failure</string>
+    <string name="NoPeersFound">No peers have been found!!!</string>
+    <string name="buttonConnect">Connect</string>
+    <string name="buttonDisconnect">Disconnect</string>
+    <string name="buttonSend">Send</string>
+    <string name="msg_token_fmt" translatable="false">"토큰 : %s"</string>
+    <string name="default_notification_channel_name" translatable="true">Test</string>
+
+    <string name="default_notification_channel_id">Channel ID</string>
+</resources>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.samsung.android.sdk.accessory.example.helloaccessory.kcpr",
+  "variantName": "release",
+  "elements": []
+}
